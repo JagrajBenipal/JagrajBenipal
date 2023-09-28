@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **WebGL**
 
-- 👨‍💻 Some of my projects are available at [jagrajbenipal.dev](jagrajbenipal.dev)
+- 👨‍💻 Some of my projects are available at [jagrajbenipaal.dev](jagrajbenipal.dev)
 
 - 💬 Ask me about **THREEjs, javascript**
 
