@@ -35,6 +35,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagrajbenipal&" alt="jagrajbenipal" /></p>
 <br>
-<h2>Note: If something didn't load, please try refreshing.</h2>
+<h2 style="color:red">Note: If something didn't load, please try refreshing.</h2>
 
 
