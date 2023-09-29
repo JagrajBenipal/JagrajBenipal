@@ -34,3 +34,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagrajbenipal&" alt="jagrajbenipal" /></p>
+
+Note: If something didn't load, please try refreshing.
