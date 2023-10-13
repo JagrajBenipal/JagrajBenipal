@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **THREEjs, javascript**
 
-- 📫 How to reach me **benipal2003@gmail.com**
+- 📫 How to reach me **jagrajworks@gmail.com**
 
 - ⚡ Fun fact **I type more than 120 wpm 😎**
 
