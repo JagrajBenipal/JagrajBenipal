@@ -1,6 +1,6 @@
 ![Header](./myBanner3.png)
 
-<h1 align="center">Jagraj Benipal</h1>
+<a href="https://jagrajbenipal.dev/"><h1 align="center">Jagraj Benipal</h1></a>
 <h3 align="center">Web Developer</h3>
 <br>
 
