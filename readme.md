@@ -1,4 +1,4 @@
-![Header](./myBanner3.png)
+![Header](./banner3.png)
 
 <h1 align="center">Jagraj Benipal</h1>
 <h3 align="center">Web Developer</h3>
