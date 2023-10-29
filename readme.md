@@ -28,10 +28,10 @@
   
 <p align="left">
   <a href="https://instagram.com/jagraj_benipal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jagraj_benipal" height="30" width="40" /></a>
-  <a href="https://jagrajbenipal.dev/#contact" target="_blank"><img src="https://www.svgrepo.com/show/230979/send.svg" alt="jagraj_benipal" height="30" width="40" /></a>
+  <a href="https://jagrajbenipal.dev/#contact" target="_blank"><img src="https://cdn3d.iconscout.com/3d/premium/thumb/form-5979378-4949147.png" alt="jagraj_benipal" height="30" width="30" /></a>
   <a href="https://linkedin.com/in/jagrajbenipal22" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagrajbenipal's linkedin" height="30" width="40" /></a>
 </p>
 
 </p>
 
-<h3>Note: If something isn't loading, please refresh the page.</h3>
+<h3>Note: If something isn't loading, please try refreshing the page.</h3>
