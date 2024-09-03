@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [THREEjs](https://651480d4e3546d0db72670bb--relaxed-squirrel-730412.netlify.app/)
 
-- 🌱 I’m currently learning **WebGL**
+- 🌱 I’m currently working to get CompTIA Network+ certified.
 
 - 👨‍💻 Some of my projects are available at [https://jagrajbenipal.dev/](https://jagrajbenipal.dev/)
 
