@@ -19,7 +19,7 @@
 - ⚡ Fun fact **I type 120+ wpm**
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=neovim,react,bootstrap,cpp,html,css,c,javascript,mongodb,next,nodejs,postgres,python,threejs,vite,jira&theme=light" />
+<img src="https://skillicons.dev/icons?i=neovim,react,bootstrap,cpp,html,css,c,javascript,mongodb,next,nodejs,postgres,python,threejs,vite&theme=light" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
