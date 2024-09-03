@@ -12,14 +12,14 @@
 
 - 👨‍💻 Some of my projects are available at [https://jagrajbenipal.dev/](https://jagrajbenipal.dev/)
 
-- 💬 Ask me about **THREEjs, javascript**
+- 💬 Ask me about **THREEjs, javascript, IT Support**
 
 - 📫 How to reach me **jagrajworks@gmail.com**
 
-- ⚡ Fun fact **I type more than 120 wpm**
+- ⚡ Fun fact **I type 120+ wpm**
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=neovim,react,bootstrap,cpp,html,css,c,javascript,mongodb,next,nodejs,postgres,python,threejs,vite" />
+<img src="https://skillicons.dev/icons?i=neovim,react,bootstrap,cpp,html,css,c,javascript,mongodb,next,nodejs,postgres,python,threejs,vite,jira" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
