@@ -54,5 +54,5 @@ My journey in computer science has fueled a strong interest in cybersecurity, an
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/JagrajBenipal/UfcImageViewer/tree/main">Detection Lab</a>
+- <a href="https://github.com/JagrajBenipal/UfcImageViewer/tree/main">SOC Automation Lab</a>
