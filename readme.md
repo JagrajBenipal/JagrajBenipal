@@ -1,35 +1,52 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+there...;+This+is+Jagraj+Benipal;" />
-</h1>
-<h3 align="center">IT Support | Full Stack Developer</h3>
-<br>
+# Hello, I'm Jagraj Singh Benipal
+<a href="https://linkedin.com/in/jagrajbenipal22/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jagrajbenipal&label=Profile%20views&color=477FE5&style=flat" alt="jagraj" /> </p>
+I am a recent graduate from Seneca Polytechnic with a profound interest in technology and a dedication to solving complex problems.
 
-- 🔭 I’m currently working on [THREEjs](https://651480d4e3546d0db72670bb--relaxed-squirrel-730412.netlify.app/)
+## Objective
 
-- 🌱 I’m currently working to get CompTIA Network+ certified.
+My journey in computer science has fueled a strong interest in cybersecurity, and I am now focused on transitioning into the field, with a specific goal of pursuing a position as a Security Analyst.
 
-- 👨‍💻 Some of my projects are available at [https://jagrajbenipal.dev/](https://jagrajbenipal.dev/)
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
 
-- 💬 Ask me about **THREEjs, javascript, IT Support**
+## Skills
 
-- 📫 How to reach me **jagrajworks@gmail.com**
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | Detection Lab|
+| Network Traffic Monitoring and Attack Detection | Detection Lab |
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-- ⚡ Fun fact **I type 120+ wpm**
+## Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=neovim,react,bootstrap,cpp,html,css,c,javascript,mongodb,next,nodejs,postgres,python,threejs,vite&theme=light" />
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<p align="left">
-  <a href="https://instagram.com/jagraj_benipal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jagraj_benipal" height="30" width="40" /></a>
-  <a href="https://jagrajbenipal.dev/#contact" target="_blank"><img src="https://cdn3d.iconscout.com/3d/premium/thumb/form-5979378-4949147.png" alt="jagraj_benipal" height="30" width="30" /></a>
-  <a href="https://linkedin.com/in/jagrajbenipal22" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagrajbenipal's linkedin" height="30" width="40" /></a>
-</p>
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
-</p>
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
-<h3>Note: If something isn't loading, please try refreshing the page.</h3>
+## Projects
+- Detection Lab
+- SOC Automation Project
