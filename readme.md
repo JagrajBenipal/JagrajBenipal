@@ -22,14 +22,15 @@ My journey in computer science has fueled a strong interest in cybersecurity, an
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Detection Lab|
-| Network Traffic Monitoring and Attack Detection | Detection Lab |
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+Skill	| Associated Project  
+--- | ---  
+SIEM Implementation and Log Analysis	| Elastic SIEM Home Lab  
+Log Forwarding and Integration	| Elastic SIEM Home Lab  
+Network Scanning and Telemetry Generation	| Elastic SIEM Home Lab  
+Threat Detection with Custom Rules	| Elastic SIEM Home Lab  
+Dashboard Creation and Data Visualization	| Elastic SIEM Home Lab  
+
+
 
 ## Tools
 
@@ -53,6 +54,7 @@ My journey in computer science has fueled a strong interest in cybersecurity, an
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+
 ## Projects
-- <a href="https://github.com/JagrajBenipal/UfcImageViewer/tree/main">Detection Lab</a>
+- <a href="https://github.com/JagrajBenipal/Elastic-SIEM-Home-Lab-Project/blob/main/README.md">Elastic SIEM Home Lab</a>
 - <a href="https://github.com/JagrajBenipal/UfcImageViewer/tree/main">SOC Automation Lab</a>
