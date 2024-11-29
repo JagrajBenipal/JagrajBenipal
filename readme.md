@@ -5,7 +5,8 @@ I am a recent graduate from Seneca Polytechnic with a profound interest in techn
 
 ## Objective
 
-My journey in computer science has fueled a strong interest in cybersecurity, and I am now focused on transitioning into the field, with a specific goal of pursuing a position as a Security Analyst.
+My journey in computer science has fueled a strong interest in cybersecurity, and I am now focused on deepening my expertise in the field. I am passionate about understanding, detecting, and mitigating security threats while continuously learning about emerging tools and techniques to protect systems and data.
+
 
 ## Certifications
 <div>
