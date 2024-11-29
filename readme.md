@@ -22,13 +22,19 @@ My journey in computer science has fueled a strong interest in cybersecurity, an
 
 ## Skills
 
-Skill	| Associated Project  
---- | ---  
-SIEM Implementation and Log Analysis	| Elastic SIEM Home Lab  
-Log Forwarding and Integration	| Elastic SIEM Home Lab  
-Network Scanning and Telemetry Generation	| Elastic SIEM Home Lab  
-Threat Detection with Custom Rules	| Elastic SIEM Home Lab  
-Dashboard Creation and Data Visualization	| Elastic SIEM Home Lab  
+| **Skill**                            | **Associated Project**                |
+|--------------------------------------|---------------------------------------|
+| SIEM Implementation and Log Analysis | Elastic SIEM Home Lab                |
+| Log Forwarding and Integration       | Elastic SIEM Home Lab                |
+| Network Scanning and Telemetry Generation | Elastic SIEM Home Lab         |
+| Threat Detection with Custom Rules   | Elastic SIEM Home Lab                |
+| Dashboard Creation and Data Visualization | Elastic SIEM Home Lab         |
+| Active Directory Management          | AD Threat Simulation and Monitoring Lab |
+| RDP Brute-Force Attack Simulation    | AD Threat Simulation and Monitoring Lab |
+| Log Analysis with Splunk             | AD Threat Simulation and Monitoring Lab |
+| Virtual Network Configuration        | AD Threat Simulation and Monitoring Lab |
+| Credential-Based Attack Response     | AD Threat Simulation and Monitoring Lab |
+
 
 
 
@@ -57,4 +63,4 @@ Dashboard Creation and Data Visualization	| Elastic SIEM Home Lab
 
 ## Projects
 - <a href="https://github.com/JagrajBenipal/Elastic-SIEM-Home-Lab-Project/blob/main/README.md">Elastic SIEM Home Lab</a>
-- <a href="https://github.com/JagrajBenipal/UfcImageViewer/tree/main">SOC Automation Lab</a>
+- <a href="https://github.com/JagrajBenipal/ActiveDirectory-Attack-Simulation/blob/main/readme.md">AD Threat Simulation and Monitoring Lab</a>
