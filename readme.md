@@ -19,6 +19,9 @@ My journey in computer science has fueled a strong interest in cybersecurity, an
   <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
 
+## Projects
+- <a href="https://github.com/JagrajBenipal/Elastic-SIEM-Home-Lab-Project/blob/main/README.md">Elastic SIEM Home Lab</a>
+- <a href="https://github.com/JagrajBenipal/ActiveDirectory-Attack-Simulation/blob/main/readme.md">AD Threat Simulation and Monitoring Lab</a>
 
 ## Skills
 
@@ -60,7 +63,3 @@ My journey in computer science has fueled a strong interest in cybersecurity, an
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-
-## Projects
-- <a href="https://github.com/JagrajBenipal/Elastic-SIEM-Home-Lab-Project/blob/main/README.md">Elastic SIEM Home Lab</a>
-- <a href="https://github.com/JagrajBenipal/ActiveDirectory-Attack-Simulation/blob/main/readme.md">AD Threat Simulation and Monitoring Lab</a>
